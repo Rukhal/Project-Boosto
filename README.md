@@ -1,3 +1,3 @@
 # Project-Boosto
   My first project, woohoo!
-  Will this work i wonder
+  ## This is the project that i start learning coding for my future (hopefull) career. Yay!
